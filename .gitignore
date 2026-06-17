@@ -1,0 +1,5 @@
+# LevelDB runtime lock (transient, must not be committed)
+packs/**/LOCK
+# LevelDB operational logs (not needed for distribution)
+packs/**/LOG
+packs/**/LOG.old

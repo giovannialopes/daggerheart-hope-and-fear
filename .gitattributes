@@ -1,0 +1,4 @@
+# LevelDB compendium files must never have line-endings altered
+packs/** binary
+*.ldb binary
+*.webp binary
