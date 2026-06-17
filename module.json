@@ -1,7 +1,7 @@
 {
   "id": "daggerheart-hope-and-fear",
   "title": "Daggerheart - Hope and Fear",
-  "version": "1.8",
+  "version": "1.9",
   "authors": [
     {
       "name": "Adags"
@@ -11,11 +11,9 @@
     "minimum": "14",
     "verified": "14"
   },
-  
   "esmodules": [
     "scripts/module.js"
   ],
-  
   "relationships": {
     "systems": [
       {
@@ -27,9 +25,7 @@
       }
     ]
   },
-  
   "description": "Conteudo nao oficial para Daggerheart - Hope and Fear.",
-  
   "packs": [
     {
       "name": "classes",
@@ -141,7 +137,7 @@
     },
     {
       "name": "void-adv-features",
-      "label": "Void Features",
+      "label": "Adversary Features",
       "path": "packs/void-adv-features",
       "type": "Item",
       "system": "daggerheart",
@@ -157,19 +153,33 @@
       "name": "Hope and Fear",
       "sorting": "a",
       "color": "#ad0000",
-      "packs": [
-        "void-adv-features",
-        "classes",
-        "subclasses",
-        "ancestries",
-        "domains",
-        "communities",
-        "transformations",
-        "weapons",
-        "macros",
-        "adversaries--environments"
-      ],
-      "folders": []
+      "packs": [],
+      "folders": [
+        {
+          "name": "Jogadores",
+          "sorting": "a",
+          "color": "#1b6f3b",
+          "packs": [
+            "classes",
+            "subclasses",
+            "ancestries",
+            "communities",
+            "domains",
+            "transformations",
+            "weapons",
+            "macros"
+          ]
+        },
+        {
+          "name": "Mestre",
+          "sorting": "a",
+          "color": "#7a1010",
+          "packs": [
+            "adversaries--environments",
+            "void-adv-features"
+          ]
+        }
+      ]
     }
   ],
   "url": "https://github.com/giovannialopes/daggerheart-hope-and-fear",

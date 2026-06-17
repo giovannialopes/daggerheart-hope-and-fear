@@ -1,3 +1,9 @@
+# 1.9
+
+- Compendios organizados em duas subpastas dentro de "Hope and Fear":
+  "Jogadores" (conteudo acessivel aos jogadores) e "Mestre" (so GM).
+- Label em ingles "Void Features" -> "Adversary Features".
+
 # 1.8
 
 - Itens que usavam a imagem custom blood-hunter-logo.webp repontados para
