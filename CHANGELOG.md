@@ -1,3 +1,8 @@
+# 1.6
+
+- Ícone do dominio na ficha volta a usar blood.svg/dread.svg (silhueta branca).
+  Os cards de dominio seguem usando blood_domain/dread_domain (arte colorida).
+
 # 1.5
 
 - Dominios Homebrew (Blood/Dread) passam a usar blood_domain/dread_domain.
