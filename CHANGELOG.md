@@ -1,3 +1,7 @@
+# 1.5
+
+- Dominios Homebrew (Blood/Dread) passam a usar blood_domain/dread_domain.
+
 # 1.4
 
 - Icones dos dominios Homebrew (Blood/Dread) reescritos no formato dos

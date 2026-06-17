@@ -41,8 +41,8 @@ async function registerVoidDomains() {
     if (!homebrewSettings) return;
 
     const domainData = {
-        blood: { id: 'blood', label: 'Blood', src: `modules/${MODULE_ID}/icons/svg/blood.svg`, description: 'The Blood domain.' },
-        dread: { id: 'dread', label: 'Dread', src: `modules/${MODULE_ID}/icons/svg/dread.svg`, description: 'The Dread domain.' }
+        blood: { id: 'blood', label: 'Blood', src: `modules/${MODULE_ID}/icons/svg/blood_domain.svg`, description: 'The Blood domain.' },
+        dread: { id: 'dread', label: 'Dread', src: `modules/${MODULE_ID}/icons/svg/dread_domain.svg`, description: 'The Dread domain.' }
     };
 
     // Convert the DataModel instance to a plain object so all nested fields are preserved.
