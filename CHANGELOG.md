@@ -1,3 +1,9 @@
+# 1.3
+
+- Icones de dominio (Blood/Dread) agora sao silhuetas brancas limpas.
+  Removida a imagem de fundo embarcada que renderizava preto no Foundry
+  (arquivos caíram de ~5MB para ~4KB cada).
+
 # 1.2
 
 - Corrige icone dos dominios Homebrew (Blood/Dread): agora o modulo
