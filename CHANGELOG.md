@@ -1,4 +1,4 @@
-# 1.9
+# 2.0
 
 - Compendios organizados em duas subpastas dentro de "Hope and Fear":
   "Jogadores" (conteudo acessivel aos jogadores) e "Mestre" (so GM).
