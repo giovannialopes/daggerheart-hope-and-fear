@@ -51,9 +51,16 @@ async function registerVoidDomains() {
 
     let hasUpdates = false;
     for (const [key, data] of Object.entries(domainData)) {
-        if (!currentDomains[key]) {
+        const existing = currentDomains[key];
+        if (!existing) {
             console.log(`${MODULE_ID} | Registering missing domain: ${data.label}`);
             currentDomains[key] = data;
+            hasUpdates = true;
+        } else if (existing.src !== data.src) {
+            // Domain already exists but with an outdated icon: refresh its src
+            // (preserves any other fields the user/system may have set).
+            console.log(`${MODULE_ID} | Updating icon for domain: ${data.label}`);
+            currentDomains[key] = { ...existing, src: data.src };
             hasUpdates = true;
         }
     }
