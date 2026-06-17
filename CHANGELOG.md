@@ -1,3 +1,8 @@
+# 1.7
+
+- Icones das classes (Blood Hunter, Warlock, Brawler, Witch, Assassin)
+  atualizados para os mesmos usados no Voidborne.
+
 # 1.6
 
 - Ícone do dominio na ficha volta a usar blood.svg/dread.svg (silhueta branca).
