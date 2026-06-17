@@ -1,3 +1,9 @@
+# 1.4
+
+- Icones dos dominios Homebrew (Blood/Dread) reescritos no formato dos
+  dominios base do sistema (fill="currentColor" + classe fill-white),
+  para o sistema colorir corretamente como branco.
+
 # 1.3
 
 - Icones de dominio (Blood/Dread) agora sao silhuetas brancas limpas.
