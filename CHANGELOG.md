@@ -1,3 +1,9 @@
+# 1.8
+
+- Itens que usavam a imagem custom blood-hunter-logo.webp repontados para
+  icones do Voidborne (features e subclasses do Blood Hunter, incl. effects).
+- Removida a pasta images/ (blood-hunter-logo.webp e dread.webp nao sao mais usadas).
+
 # 1.7
 
 - Icones das classes (Blood Hunter, Warlock, Brawler, Witch, Assassin)
