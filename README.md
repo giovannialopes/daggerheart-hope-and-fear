@@ -1,10 +1,6 @@
 <h1 align="center">⚔️ Hope and Fear</h1>
 <p align="center"><i>Conteudo de terror e sangue para suas mesas de Daggerheart no Foundry VTT.</i></p>
 
-<p align="center">
-  <img width="780" src="docs/preview.webp" alt="Hope and Fear">
-</p>
-
 ---
 
 **Hope and Fear** e um modulo de conteudo (fanmade, nao oficial) para o sistema
@@ -58,5 +54,3 @@ propriedade intelectual originais do RPG Daggerheart pertencem a Darrington Pres
 Este e um projeto de fa, sem fins comerciais — todos os direitos do material original
 permanecem com seus respectivos donos. Detalhes da licenca:
 [darringtonpress.com/license](https://darringtonpress.com/license/).
-
-Creditos das imagens de dominio (Unsplash): [Dread](https://unsplash.com/pt-br/fotografias/uma-foto-em-preto-e-branco-de-um-cranio-humano-1PtM6b85sdw) · [Blood](https://unsplash.com/pt-br/fotografias/a-mao-de-uma-pessoa-com-sangue-nela-9KF7A8PJFF8).
